@@ -1,0 +1,7 @@
+import testing ;
+
+import boost ;
+
+run test_example.cpp /boost//unit_test_framework ;
+
+boost.use-project ;
